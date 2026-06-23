@@ -1,4 +1,4 @@
-\# 🏠 Smart Home Automation Dashboard
+\🏠 Smart Home Automation Dashboard
 
 
 
@@ -6,7 +6,7 @@ A Smart Home Automation and Security Monitoring Dashboard developed using Stream
 
 
 
-\## Features
+\Features
 
 
 
@@ -26,7 +26,7 @@ A Smart Home Automation and Security Monitoring Dashboard developed using Stream
 
 
 
-\## Technologies Used
+\ Technologies Used
 
 
 
@@ -40,7 +40,7 @@ A Smart Home Automation and Security Monitoring Dashboard developed using Stream
 
 
 
-\## Run Locally
+\Run Locally
 
 
 
@@ -54,15 +54,20 @@ streamlit run app.py
 
 
 
-\## Deployment
+\ Deployment
 
 
 
 Deploy easily on Streamlit Community Cloud.
+https://smart-home-automation-dashboard-hpasvi77t8v9sgnp5ktcar.streamlit.app/
+<img width="1901" height="742" alt="image" src="https://github.com/user-attachments/assets/e3698743-c95c-4328-ba24-dab1198be832" />
+<img width="1902" height="917" alt="image" src="https://github.com/user-attachments/assets/28073928-80df-4304-a1eb-eb6009e001bb" />
 
 
 
-\## Author
+
+
+\ Author
 
 
 
