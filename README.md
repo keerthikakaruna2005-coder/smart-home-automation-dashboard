@@ -69,4 +69,6 @@ Deploy easily on Streamlit Community Cloud.
 Keerthi
 
 Electrical and Electronics Engineering
+<img width="1907" height="912" alt="image" src="https://github.com/user-attachments/assets/e1a7a639-67a4-4504-8e36-3e0feb9109ee" />
+<img width="1907" height="867" alt="image" src="https://github.com/user-attachments/assets/10262fe6-1c42-46d5-91f2-de3e237a28dd" />
 
