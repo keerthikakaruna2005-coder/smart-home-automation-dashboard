@@ -26,21 +26,21 @@ A Smart Home Automation and Security Monitoring Dashboard developed using Stream
 
 
 
-\ Technologies Used
+ Technologies Used
 
 
 
-\- Python
+ Python
 
-\- Streamlit
+ Streamlit
 
-\- Arduino Project Concept
+ Arduino Project Concept
 
-\- IoT Simulation
+ IoT Simulation
 
 
 
-\Run Locally
+Run Locally
 
 
 
@@ -48,13 +48,11 @@ A Smart Home Automation and Security Monitoring Dashboard developed using Stream
 
 pip install -r requirements.txt
 
-streamlit run app.py
-
-```
+str
 
 
 
-\ Deployment
+Deployment
 
 
 
@@ -67,7 +65,7 @@ https://smart-home-automation-dashboard-hpasvi77t8v9sgnp5ktcar.streamlit.app/
 
 
 
-\ Author
+ Author
 
 
 
