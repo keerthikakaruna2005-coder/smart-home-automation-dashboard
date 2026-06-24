@@ -29,6 +29,7 @@ streamlit run app.py
 ## Deployment
 
 Deploy easily on Streamlit Community Cloud.
+https://github.com/keerthikakaruna2005-coder/smart-home-automation-dashboard/blob/main/Recording%202026-06-24%20082331.mp4
 
 
 ## Author
